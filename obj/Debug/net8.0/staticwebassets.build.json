@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OsBV15DWXQ3RZ+Fe75yGMKsXmf+gSLOsAxtEE4+bwbE=",
+  "Source": "RedshiftApi",
+  "BasePath": "_content/RedshiftApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

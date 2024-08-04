@@ -1,0 +1,6 @@
+@RedshiftApi_HostAddress = http://localhost:5293
+
+GET {{RedshiftApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
